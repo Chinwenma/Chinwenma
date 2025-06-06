@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/your-github-username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;Web+Interface+Designer;Lifelong+Learner;Open+to+Collaborations">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;User+Interface+Designer">
   </a>
 </p>
 
