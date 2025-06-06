@@ -1,71 +1,83 @@
 <h1 align="center">Hi 👋, I'm Chinwenma Okorie</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
-<p align="left">
-<p align="left">
-💼 I currently work as a <strong>Frontend Developer at Verbum Networks Limited</strong><br>
-👨‍💻 I’m currently building <strong>user-focused web apps</strong> to sharpen my frontend skills.<br>
-📫 How to reach me: <a href="mailto:okoriechinwe1327@gmail.com">okoriechinwe1327@gmail.com</a><br>
-👀 I’m open to <strong>internships, entry roles, and open-source collaboration</strong>.<br>
-⚡ Fun fact: <em>I’m a fast learner, flexible, and a great team player.</em>
+<p align="center">
+  <a href="https://github.com/your-github-username">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;Web+Interface+Designer;Lifelong+Learner;Open+to+Collaborations">
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect with me:
+## 🚀 About Me
+💼 Currently working as a **Frontend Developer at Verbum Networks Limited**  
+👨‍💻 Actively building **user-focused web apps** to sharpen my frontend skills  
+📫 Reach me at: [okoriechinwe1327@gmail.com](mailto:okoriechinwe1327@gmail.com)  
+👀 Open to **internships, entry-level roles, and open-source collaboration**  
+⚡ Fun fact: I’m a **fast learner, great team player**, and love solving challenges 💡  
 
-<p align="left">
-<a href="[https://linkedin.com/in/chinwenma-okorie-5414511a6/](https://www.linkedin.com/in/chinwenma-okorie-5414511a6/)" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-</a>
-<a href="[https://x.com/Ethel_Omma?t=-8QMLxDH64WFJD1lsLCFgA&s=09](https://x.com/Ethel_Omma?t=-8QMLxDH64WFJD1lsLCFgA&s=09)" target="blank">
-  <img align="center" src="https://img.shields.io/badge/X-1DA1F2?logo=x&style=for-the-badge" alt="Twitter" />
-</a>
+---
+
+## 🌟 Tech Stack & Tools
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🎨 Styling & Animation
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### 🧠 State Management & Tooling
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+### 🗄️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true" width="450px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450px"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack:
+## 🧩 Projects Showcase
 
-<p align="left">
- <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
- <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-</p>
+### 🌍 [Travel & Tour Website](https://your-travel-app.vercel.app)  
+A fully responsive travel site built with Next.js, Tailwind CSS and animated UI.  
+🔗 GitHub: [View repo](https://github.com/your-github-username/travel-app)
+
+### 📚 [Online Bookstore](https://your-bookstore.vercel.app)  
+An interactive online bookstore with cart, wishlist and daily deals features.  
+🔗 GitHub: [View repo](https://github.com/your-github-username/bookstore)
 
 ---
 
-### 🚀 Projects
-
-- 📚 **[Online Bookstore App](https://github.com/your-repo)** – Built with React.js & Tailwind CSS
-- 🏥 **[Hospital Management System](https://github.com/your-repo)** – Web app for managing hospital operations
-- ✈️ **[Travel & Tours Website](https://github.com/your-repo)** – Developed using Next.js 14 & Tailwind CSS
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinwenmaokorie&show_icons=true&locale=en" alt="chinwenmaokorie" />
-</p>
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okoriechinwe1327@gmail.com)
 
 ---
 
-### 🏆 GitHub Trophy
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinwenmaokorie" alt="chinwenmaokorie" />
-</p>
-
----
-
-### 📈 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chinwenmaokorie&label=Profile%20views&color=0e75b6&style=flat" alt="chinwenmaokorie" />
-</p>
+⭐ **Thanks for visiting! Feel free to explore my repositories and connect!**
