@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinwenma Okorie</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <p align="center">
   <a href="https://github.com/your-github-username">
@@ -13,7 +13,7 @@
 💼 Currently working as a **Web Developer at Verbum Networks Limited Enugu**  
 👨‍💻 Actively building **user-focused web apps** to sharpen my Web Development skills  
 📫 Reach me at: [okoriechinwe1327@gmail.com](mailto:okoriechinwe1327@gmail.com)  
-👀 Open to ** entry-level roles, intermediate, and open-source collaboration**  
+👀 Open to **entry-level roles, intermediate, and open-source collaboration**  
 ⚡ Fun fact: I’m a **fast learner, great team player**, and love solving challenges 💡  
 
 ---
