@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/your-github-username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;User+Interface+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;User+Interface+Designer;Web+Developer">
   </a>
 </p>
 
@@ -74,8 +74,8 @@ An interactive online bookstore with cart, wishlist and daily deals features.
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwenma-okorie-5414511a6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://de-tech-matrix.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okoriechinwe1327@gmail.com)
 
 ---
