@@ -55,8 +55,8 @@
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true" width="450px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true" width="450px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="450px"/>
 </p>
 
 ---
