@@ -88,13 +88,7 @@ An interactive online bookstore with cart, wishlist, and daily deals features.
 
 ---
 
-## 🌐 Connect With Me  
-
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwenma-okorie-5414511a6/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://de-tech-matrix.vercel.app/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okoriechinwe1327@gmail.com)
-</p>
+## 🌐 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwenma-okorie-5414511a6/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://de-tech-matrix.vercel.app/) [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okoriechinwe1327@gmail.com)
 
 <p align="center">
   <!-- Visitor Count Badge -->
