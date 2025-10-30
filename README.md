@@ -83,7 +83,7 @@ An interactive online bookstore with cart, wishlist, and daily deals features.
 
 <p align="center">
   <!-- Visitor Count Badge -->
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chinwenma.Chinwenma)
+![Profile Views](https://img.shields.io/github/profile/views/Chinwenma?style=for-the-badge)
 </p>
 
 ---
