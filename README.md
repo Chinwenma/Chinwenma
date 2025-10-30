@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/Chinwenma">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;User+Interface+Designer;Web+Developer">
   </a>
 </p>
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-💼 Currently working as a **Web Developer at Verbum Networks Limited Enugu**  
+💼 Currently working as a **Web Developer at Verbum Networks Limited, Enugu**  
 👨‍💻 Actively building **user-focused web apps** to sharpen my Web Development skills  
 📫 Reach me at: [okoriechinwe1327@gmail.com](mailto:okoriechinwe1327@gmail.com)  
 👀 Open to **entry-level roles, intermediate, and open-source collaboration**  
@@ -32,9 +32,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🎨 Styling & Animation
+### 🎨 Styling, Animation & Design
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-10B981?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🧠 State Management & Tooling
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -46,6 +48,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### ☁️ DevOps & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,30 +57,49 @@
 
 ---
 
-## 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true" width="450px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="450px"/>
-</p>
-
----
-
 ## 🧩 Projects Showcase
 
 ### 🌍 [Travel & Tour Website](https://your-travel-app.vercel.app)  
-A fully responsive travel site built with Next.js, Tailwind CSS and animated UI.  
-🔗 GitHub: [View repo](https://github.com/your-github-username/travel-app)
+A fully responsive travel site built with Next.js, Tailwind CSS, and animated UI.  
+🔗 GitHub: [View repo](https://github.com/Chinwenma/travel-app)
 
 ### 📚 [Online Bookstore](https://your-bookstore.vercel.app)  
-An interactive online bookstore with cart, wishlist and daily deals features.  
-🔗 GitHub: [View repo](https://github.com/your-github-username/bookstore)
+An interactive online bookstore with cart, wishlist, and daily deals features.  
+🔗 GitHub: [View repo](https://github.com/Chinwenma/bookstore)
+
+---
+
+## 🔥 GitHub Stats (Responsive)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues" width="300px" style="margin:5px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="300px" style="margin:5px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinwenma&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="300px" style="margin:5px"/>
+</p>
+
+<style>
+  @media (max-width: 1024px) {
+    p img {
+      width: 90% !important;
+      margin: 10px 0 !important;
+    }
+  }
+</style>
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwenma-okorie-5414511a6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://de-tech-matrix.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okoriechinwe1327@gmail.com)
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwenma-okorie-5414511a6/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://de-tech-matrix.vercel.app/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okoriechinwe1327@gmail.com)
+</p>
+
+<p align="center">
+  <!-- Visitor Count Badge -->
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chinwenma.Chinwenma)
+</p>
 
 ---
 
