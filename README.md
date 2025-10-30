@@ -59,7 +59,7 @@
 
 ## 🧩 Projects Showcase
 
-### 🌍 [Travel & Tour Website](https://your-travel-app.vercel.app)  
+### 🌍 [Ecommerce Website](https://your-travel-app.vercel.app)  
 A fully responsive travel site built with Next.js, Tailwind CSS, and animated UI.  
 🔗 GitHub: [View repo](https://github.com/Chinwenma/travel-app)
 
@@ -73,7 +73,7 @@ An interactive online bookstore with cart, wishlist, and daily deals features.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues" width="300px" style="margin:5px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Chinwenma&theme=tokyonight" width="300px" style="margin:5px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="300px" style="margin:5px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinwenma&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="300px" style="margin:5px"/>
 </p>
 
