@@ -73,18 +73,9 @@ An interactive online bookstore with cart, wishlist, and daily deals features.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,issues" width="300px" style="margin:5px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="300px" style="margin:5px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Chinwenma&theme=tokyonight" width="300px" style="margin:5px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinwenma&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="300px" style="margin:5px"/>
 </p>
-
-<style>
-  @media (max-width: 1024px) {
-    p img {
-      width: 90% !important;
-      margin: 10px 0 !important;
-    }
-  }
-</style>
 
 ---
 
