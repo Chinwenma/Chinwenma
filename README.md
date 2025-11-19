@@ -54,10 +54,20 @@
 ---
 
 ## 🔥 GitHub Stats  
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true" width="450px"/>
+  
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="450px"/>
 </p>
+
+<!-- GitHub Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chinwenma&color=0e75b6&style=flat" alt="Chinwenma" />
+</p>
+
 
 ---
 
