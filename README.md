@@ -78,9 +78,9 @@
 A fully responsive e-commerce furniture shop built with modern web technologies. Features include product listings, cart functionality, and smooth user experience.  
 🔗 GitHub: [View repo](https://github.com/Chinwenma/matrix-shop)
 
-### 🏠 [Matrix Real Estate](https://matrix-real-estate.vercel.app/)  
+### 🏠 [Matrix Real Estate](https://github.com/Chinwenma/MatrixRealEstate)  
 A modern, fully responsive real estate website showcasing property listings with search and filter functionality, built with Next.js and Tailwind CSS.  
-🔗 GitHub: [View repo](https://github.com/Chinwenma/matrix-real-estate)
+🔗 GitHub: [View repo]([https://github.com/Chinwenma/matrix-real-estate](https://github.com/Chinwenma/MatrixRealEstate))
 
 ---
 
