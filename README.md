@@ -73,13 +73,14 @@
 
 ## 🧩 Projects Showcase
 
-### 🌍 [Travel & Tour Website](https://your-travel-app.vercel.app)  
-A fully responsive travel site built with Next.js, Tailwind CSS and animated UI.  
-🔗 GitHub: [View repo](https://github.com/your-github-username/travel-app)
 
-### 📚 [Online Bookstore](https://your-bookstore.vercel.app)  
-An interactive online bookstore with cart, wishlist and daily deals features.  
-🔗 GitHub: [View repo](https://github.com/your-github-username/bookstore)
+### 🛋️ [Matrix Furniture Shop](https://matrix-shop-psi.vercel.app)  
+A fully responsive e-commerce furniture shop built with modern web technologies. Features include product listings, cart functionality, and smooth user experience.  
+🔗 GitHub: [View repo](https://github.com/Chinwenma/matrix-shop)
+
+### 🏠 [Matrix Real Estate](https://matrix-real-estate.vercel.app/)  
+A modern, fully responsive real estate website showcasing property listings with search and filter functionality, built with Next.js and Tailwind CSS.  
+🔗 GitHub: [View repo](https://github.com/Chinwenma/matrix-real-estate)
 
 ---
 
