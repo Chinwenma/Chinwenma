@@ -12,7 +12,7 @@
 ## 🚀 About Me
 💼 Currently working as a **Web Developer at Verbum Networks Limited Enugu**  
 👨‍💻 Actively building **user-focused web apps** to sharpen my Web Development skills  
-📫 Reach me at: [okoriechinwe1327@gmail.com](mailto:okoriechinwe1327@gmail.com)  
+📫 Reach me at: [ocu.okorie@gmail.com](mailto:ocu.okorie@gmail.com)  
 👀 Open to **entry-level roles, intermediate, and open-source collaboration**  
 ⚡ Fun fact: I’m a **fast learner, great team player**, and love solving challenges 💡  
 
