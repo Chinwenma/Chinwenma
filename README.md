@@ -10,11 +10,7 @@
 ---
 
 ## 🚀 About Me
-💼 Currently working as a **Web Developer at Verbum Networks Limited Enugu**  
-👨‍💻 Actively building **user-focused web apps** to sharpen my Web Development skills  
-📫 Reach me at: [ocu.okorie@gmail.com](mailto:ocu.okorie@gmail.com)  
-👀 Open to **entry-level roles, intermediate, and open-source collaboration**  
-⚡ Fun fact: I’m a **fast learner, great team player**, and love solving challenges 💡  
+Full-Stack Developer with experience in designing, building, and maintaining scalable web applications using JavaScript, TypeScript, React, Next.js, and Node.js. Proven ability to develop and integrate RESTful APIs, manage relational and non-relational databases using Prisma (PostgreSQL, MongoDB), and implement secure authentication systems. Experienced in delivering performant, user-centric applications with a strong focus on clean, maintainable code, responsive UI design, and backend efficiency. Actively engaged in performance optimization, system scalability, and modern development practices. Continuously expanding expertise in DevOps practices, cloud deployment workflows, and scalable backend system design  
 
 ---
 
