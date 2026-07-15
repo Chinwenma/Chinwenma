@@ -1,90 +1,118 @@
-<h1 align="center">Hi 👋, I'm Chinwenma Okorie</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+# Hi 👋, I'm Chinwe Okorie
 
-<p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer;User+Interface+Designer;Web+Developer">
-  </a>
-</p>
+**Frontend-Focused Fullstack Developer** | Berlin, Germany | [GitHub](https://github.com/chinwenma) | [LinkedIn](https://www.linkedin.com/in/chinwe-okorie/) | [Email](mailto:ocu.okorie@gmail.com)
 
 ---
 
-## 🚀 About Me
-Full-Stack Developer with experience in designing, building, and maintaining scalable web applications using JavaScript, TypeScript, React, Next.js, and Node.js. Proven ability to develop and integrate RESTful APIs, manage relational and non-relational databases using Prisma (PostgreSQL, MongoDB), and implement secure authentication systems. Experienced in delivering performant, user-centric applications with a strong focus on clean, maintainable code, responsive UI design, and backend efficiency. Actively engaged in performance optimization, system scalability, and modern development practices. Continuously expanding expertise in DevOps practices, cloud deployment workflows, and scalable backend system design  
+## About Me
+
+Fullstack developer with 3+ years of professional experience building production-grade web applications. I'm passionate about designing intuitive user interfaces, building scalable backend systems, and shipping features that matter. Currently based in Berlin and open to both frontend/fullstack developer roles and Fachinformatikerin Ausbildung programs. Chancenkarte holder (valid through April 2027) with full work authorization in Germany.
 
 ---
 
-## 🌟 Tech Stack & Tools
+## 🚀 Featured Project
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **DocuMind** — AI-Powered Document Q&A SaaS  
+A Retrieval-Augmented Generation (RAG) platform that lets users upload documents and ask intelligent questions, getting precise answers grounded in their content.
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Stack:**
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, React
+- **Backend:** FastAPI, Python, Node.js
+- **Database:** PostgreSQL with pgvector for embeddings
+- **AI/ML:** Anthropic API (Claude) for RAG
+- **DevOps:** Docker, containerization for production deployment
+- **Infrastructure:** RESTful APIs, async processing
 
-### 🎨 Styling & Animation
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+**Key Features:**
+- Document ingestion & vector embedding pipeline
+- Real-time Q&A with context-aware responses
+- User authentication & session management
+- Responsive, accessible UI built with React
 
-### 🧠 State Management & Tooling
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+**Why It Matters:** DocuMind demonstrates end-to-end SaaS development—from intelligent backend design to production-ready containerization. It's my primary showcase of modern fullstack capabilities.
 
-### 🗄️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ DevOps & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[View on GitHub](#) | [Live Demo](#) *(links coming)*
 
 ---
 
-## 🔥 GitHub Stats  
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinwenma&show_icons=true&theme=tokyonight&include_all_commits=true" width="450px"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinwenma&theme=tokyonight" width="450px"/>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<!-- GitHub Visitors -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chinwenma&color=0e75b6&style=flat" alt="Chinwenma" />
-</p>
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-
----
-
-## 🧩 Projects Showcase
-
-
-### 🛋️ [Matrix Furniture Shop](https://matrix-shop-psi.vercel.app)  
-A fully responsive e-commerce furniture shop built with modern web technologies. Features include product listings, cart functionality, and smooth user experience.  
-🔗 GitHub: [View repo](https://github.com/Chinwenma/matrix-shop)
-
-### 🏠 [Matrix Real Estate](https://github.com/Chinwenma/MatrixRealEstate)  
-A modern, fully responsive real estate website showcasing property listings with search and filter functionality, built with Next.js and Tailwind CSS.  
-🔗 GitHub: [View repo](https://github.com/Chinwenma/MatrixRealEstate)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwe-okorie-5414511a6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://de-tech-matrix.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ocu.okorie@gmail.com)
+## 📂 Other Projects
+
+### **Matrix Shop** — E-Commerce Platform  
+A fully responsive furniture e-commerce application with product browsing, cart management, and checkout flow.  
+**Stack:** Next.js, MongoDB, Prisma, Tailwind CSS  
+[Live Site](https://matrix-shop-psi.vercel.app) | [GitHub](https://github.com/Chinwenma/matrix-shop)
+
+### **Matrix Real Estate** — Property Listing Platform  
+Modern real estate website with advanced search, filtering, and property showcase.  
+**Stack:** Next.js, Tailwind CSS  
+[GitHub](https://github.com/Chinwenma/MatrixRealEstate)
 
 ---
 
-⭐ **Thanks for visiting! Feel free to explore my repositories and connect!**
+## 💼 Experience
+
+**Fullstack Developer** | Verbum Networks Limited, Nigeria *(Jan 2024 – Apr 2026)*
+- Designed and built production-grade web applications serving real users
+- Developed RESTful APIs and managed database architectures (PostgreSQL, MongoDB)
+- Implemented secure authentication systems and user workflows
+- Optimized application performance and system scalability
+
+**Intern → Junior Developer** | Verbum Networks Limited *(Jul 2022 – Dec 2023)*
+- Learned professional development practices and code standards
+- Contributed to frontend and backend features
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.A. in Mass Communication** | Abia State University, Nigeria (2011–2015)
+  - *Non-technical background compensated by deep portfolio and hands-on experience*
+
+- **Languages:** English (fluent), German (B1, preparing for telc B1 exam)
+
+- **Work Authorization:** Chancenkarte holder (valid through April 2027) – full work authorization in Germany
+
+---
+
+## 🌟 What I'm Looking For
+
+✅ **Frontend/Fullstack Developer Roles** — Berlin-based startups and tech companies building meaningful products  
+✅ **Fachinformatikerin Ausbildung Programs** — Serious about deepening technical foundations through formal training  
+✅ **Opportunities to build scalable systems** with modern tech stacks and collaborative teams
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [github.com/chinwenma](https://github.com/chinwenma)
+- **LinkedIn:** [linkedin.com/in/chinwe-okorie](https://www.linkedin.com/in/chinwe-okorie/)
+- **Email:** ocu.okorie@gmail.com
+- **Portfolio:** [de-tech-matrix.vercel.app](https://de-tech-matrix.vercel.app/)
+
+---
+
+**Currently open to new opportunities in Berlin. Let's talk!** 🚀
