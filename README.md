@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chinwe Okorie
 
-**Frontend-Focused Fullstack Developer** | Berlin, Germany | [GitHub](https://github.com/chinwenma) | [LinkedIn]([https://www.linkedin.com/in/chinwe-okorie-5414511a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGiEyBvrTT2WRVP%2BRQ8Gmqg%3D%3D](https://www.linkedin.com/in/chinwe-okorie-5414511a6/)) | [Email](mailto:ocu.okorie@gmail.com)
+**Frontend-Focused Fullstack Developer** | Berlin, Germany | [GitHub](https://github.com/chinwenma) | [LinkedIn](https://www.linkedin.com/in/chinwe-okorie-5414511a6/)| [Email](mailto:ocu.okorie@gmail.com)
 
 ---
 
@@ -9,6 +9,7 @@
 Software Engineer with over two years of experience designing and building modern web applications with a growing focus on scalable backend services, APIs, distributed systems, and platform engineering. Experienced in developing RESTful services using Node.js and TypeScript, designing relational and NoSQL databases,
 implementing secure authentication, and collaborating within Git-based software engineering workflows. Passionate about building reliable, scalable software platforms using modern engineering practices including automated testing, CI/CD, containerization, infrastructure as code, and observability. Continuously expanding
 expertise in cloud-native technologies
+
 ---
 
 ## 🚀 Featured Project
