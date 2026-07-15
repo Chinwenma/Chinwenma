@@ -1,13 +1,14 @@
 # Hi 👋, I'm Chinwe Okorie
 
-**Frontend-Focused Fullstack Developer** | Berlin, Germany | [GitHub](https://github.com/chinwenma) | [LinkedIn](https://www.linkedin.com/in/chinwe-okorie/) | [Email](mailto:ocu.okorie@gmail.com)
+**Frontend-Focused Fullstack Developer** | Berlin, Germany | [GitHub](https://github.com/chinwenma) | [LinkedIn]([https://www.linkedin.com/in/chinwe-okorie-5414511a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGiEyBvrTT2WRVP%2BRQ8Gmqg%3D%3D](https://www.linkedin.com/in/chinwe-okorie-5414511a6/)) | [Email](mailto:ocu.okorie@gmail.com)
 
 ---
 
 ## About Me
 
-Fullstack developer with 3+ years of professional experience building production-grade web applications. I'm passionate about designing intuitive user interfaces, building scalable backend systems, and shipping features that matter. Currently based in Berlin and open to both frontend/fullstack developer roles and Fachinformatikerin Ausbildung programs. Chancenkarte holder (valid through April 2027) with full work authorization in Germany.
-
+Software Engineer with over two years of experience designing and building modern web applications with a growing focus on scalable backend services, APIs, distributed systems, and platform engineering. Experienced in developing RESTful services using Node.js and TypeScript, designing relational and NoSQL databases,
+implementing secure authentication, and collaborating within Git-based software engineering workflows. Passionate about building reliable, scalable software platforms using modern engineering practices including automated testing, CI/CD, containerization, infrastructure as code, and observability. Continuously expanding
+expertise in cloud-native technologies
 ---
 
 ## 🚀 Featured Project
@@ -16,12 +17,13 @@ Fullstack developer with 3+ years of professional experience building production
 A Retrieval-Augmented Generation (RAG) platform that lets users upload documents and ask intelligent questions, getting precise answers grounded in their content.
 
 **Stack:**
-- **Frontend:** Next.js, TypeScript, Tailwind CSS, React
-- **Backend:** FastAPI, Python, Node.js
-- **Database:** PostgreSQL with pgvector for embeddings
-- **AI/ML:** Anthropic API (Claude) for RAG
-- **DevOps:** Docker, containerization for production deployment
-- **Infrastructure:** RESTful APIs, async processing
+- **Programming Languages:** TypeScript JavaScript (ES6+) Python
+- **Backend Development:** Node.js, Express.js, REST API Design & Development, Authentication (NextAuth). API Integration, CRUD Services, Bcrypt
+- **Databases:** PostgreSQL, MongoDB, Prisma ORM, Mongoose, Database Design, Data Modeling
+- **Frontend Technologies:** React.js, Next.js, React Native, Expo, Tailwind CSS, HTML5, CSS3, Schadcn/ui
+- **Cloud & Deployment:** AWS Fundamentals (EC2, S3, IAM, Lambda, CloudWatch), Vercel, Netlify, Hostinger
+- **Testing & Quality Engineering:** Cypress, Postman, Unit Testing, Integration Testing, API Testing, Debugging
+- **DevOps & Workflow:**  GitHub Actions, Docker, CI/CD, Git, GitHub, Figma
 
 **Key Features:**
 - Document ingestion & vector embedding pipeline
@@ -66,45 +68,8 @@ A fully responsive furniture e-commerce application with product browsing, cart 
 **Stack:** Next.js, MongoDB, Prisma, Tailwind CSS  
 [Live Site](https://matrix-shop-psi.vercel.app) | [GitHub](https://github.com/Chinwenma/matrix-shop)
 
-### **Matrix Real Estate** — Property Listing Platform  
-Modern real estate website with advanced search, filtering, and property showcase.  
-**Stack:** Next.js, Tailwind CSS  
-[GitHub](https://github.com/Chinwenma/MatrixRealEstate)
-
 ---
 
-## 💼 Experience
-
-**Fullstack Developer** | Verbum Networks Limited, Nigeria *(Jan 2024 – Apr 2026)*
-- Designed and built production-grade web applications serving real users
-- Developed RESTful APIs and managed database architectures (PostgreSQL, MongoDB)
-- Implemented secure authentication systems and user workflows
-- Optimized application performance and system scalability
-
-**Intern → Junior Developer** | Verbum Networks Limited *(Jul 2022 – Dec 2023)*
-- Learned professional development practices and code standards
-- Contributed to frontend and backend features
-
----
-
-## 🎓 Education & Certifications
-
-- **B.A. in Mass Communication** | Abia State University, Nigeria (2011–2015)
-  - *Non-technical background compensated by deep portfolio and hands-on experience*
-
-- **Languages:** English (fluent), German (B1, preparing for telc B1 exam)
-
-- **Work Authorization:** Chancenkarte holder (valid through April 2027) – full work authorization in Germany
-
----
-
-## 🌟 What I'm Looking For
-
-✅ **Frontend/Fullstack Developer Roles** — Berlin-based startups and tech companies building meaningful products  
-✅ **Fachinformatikerin Ausbildung Programs** — Serious about deepening technical foundations through formal training  
-✅ **Opportunities to build scalable systems** with modern tech stacks and collaborative teams
-
----
 
 ## 📫 Let's Connect
 
@@ -114,5 +79,3 @@ Modern real estate website with advanced search, filtering, and property showcas
 - **Portfolio:** [de-tech-matrix.vercel.app](https://de-tech-matrix.vercel.app/)
 
 ---
-
-**Currently open to new opportunities in Berlin. Let's talk!** 🚀
